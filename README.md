@@ -1,5 +1,5 @@
 # Bem-vindos ao meu perfil GitHub! 👋🏻
-<img src="file:///Users/rafaela/Downloads/Capa%20de%20Facebook%20designer%20gra%CC%81fico%20moderno%20rosa.png" alt="Texto Alternativo">
+
 
 Olá! Eu sou a Rafaela Marciano, entusiasta da tecnologia apaixonada por aprender e criar coisas novas. Meu interesse principal está em desenvolvimento de software e web. 
 
