@@ -1,5 +1,5 @@
 # Bem-vindos ao meu perfil GitHub! 👋🏻
-![Imagem de Capa](https://via.placeholder.com/1100x200)
+<img src="file:///Users/rafaela/Downloads/Capa%20de%20Facebook%20designer%20gra%CC%81fico%20moderno%20rosa.png" alt="Texto Alternativo">
 
 Olá! Eu sou a Rafaela Marciano, entusiasta da tecnologia apaixonada por aprender e criar coisas novas. Meu interesse principal está em desenvolvimento de software e web. 
 
@@ -30,8 +30,8 @@ Alguns dos projetos em que trabalhei:
 - DIO Santander 2024 - Bootcamp Preparatório Certificação AWS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaellacampos&show_icons=true&theme=dracula" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellacampos&layout=compact&langs_count=8&theme=dracula" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaellacampos&show_icons=true&theme=omni" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellacampos&layout=compact&langs_count=8&theme=omni" width="48%" />
 </div>
 
 </div>
