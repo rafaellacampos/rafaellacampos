@@ -1,4 +1,4 @@
-# Bem-vindos ao meu perfil GitHub! 👋🏻
+# Bem-vindo ao meu perfil GitHub! 👋🏻
 
 
 Olá! Eu sou a Rafaela Marciano, entusiasta da tecnologia apaixonada por aprender e criar coisas novas. Meu interesse principal está em desenvolvimento de software e web. 
