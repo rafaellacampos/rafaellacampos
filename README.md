@@ -1,14 +1,13 @@
-# Bem-vindo ao meu perfil GitHub! 👋🏻
+# Bem-vindo(a) ao meu perfil GitHub! 👋🏻
 
 
-Olá! Eu sou a Rafaela Marciano, entusiasta da tecnologia apaixonada por aprender e criar coisas novas. Meu interesse principal está em desenvolvimento de software e web. 
+Olá!, sou a Rafaela Marciano, entusiasta da tecnologia apaixonada por aprender e criar coisas novas. Meu interesse principal está em desenvolvimento de software e web e análise de dados. 
 
 - 💻 Atualmente focada em aprender Python e desenvolvimento web 
 
-##
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,js,git,aws,figma)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,js,git,aws,figma,Pandasflutter&perline=10)](https://skillicons.dev)
 ##
 
 <div> 
